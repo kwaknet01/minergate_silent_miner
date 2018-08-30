@@ -1,0 +1,1 @@
+# minergate_silent_miner
